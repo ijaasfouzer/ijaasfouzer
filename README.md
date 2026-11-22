@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://fouzer.vercel.app/"><img src="./cta.svg" alt="Have a project in mind? DM WEBSITE or email me." width="640"></a>
 </p>
+
 ## 👋 About me
  
 I'm a software developer and the founder of **[Fouxer](https://fouzer.vercel.app/)**, a Software & AI Studio based in Sri Lanka 🇱🇰. I help founders and business owners turn ideas into fast, reliable products: websites, mobile apps, AI chatbots and online stores.
