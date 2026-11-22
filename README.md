@@ -14,6 +14,7 @@ I'm a software developer and the founder of **[Fouxer](https://fouzer.vercel.app
 <p align="center">
   <img src="./divider.svg" width="100%" alt="">
 </p>
+
 ## 🚀 What I build
  
 - 🌐 **Web development**: business websites, web apps and dashboards
@@ -21,6 +22,7 @@ I'm a software developer and the founder of **[Fouxer](https://fouzer.vercel.app
 - 🤖 **AI chatbots**: assistants that answer customers and automate support
 - 🛒 **E-commerce**: online stores built to sell
 - 🎬 **AI video creation**: AI-generated promo videos and reels
+- 
 ## 🛠️ Tech stack
  
 <p align="center">
@@ -29,6 +31,7 @@ I'm a software developer and the founder of **[Fouxer](https://fouzer.vercel.app
 <p align="center">
   <img src="./divider.svg" width="100%" alt="">
 </p>
+
 ## 🔭 What I'm up to
  
 - Building products and client solutions at **Fouxer**
